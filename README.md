@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-📫  Reach out to me on LinkedIn : https://www.linkedin.com/in/mohamed-abukar/ 
+📫  Reach out to me on LinkedIn : 
 
 
 ### Languages and Tools:
