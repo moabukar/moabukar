@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohamed👋
 
-🔭 🌱 I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
+🔭 I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
 
-👯 In the near future, I hope to create an open-source project and contibute to currently running open-source projects.
+🌱 In the near future, I hope to create an open-source project and contibute to currently running open-source projects.
 
 📫 Reach out to me on LinkedIn : https://www.linkedin.com/in/mohamed-abukar/ 
 
