@@ -28,7 +28,10 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedA007)](https://github.com/anuraghazra/github-readme-stats)
 
+  
+  
   <img align="left" alt="mohamedA007's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohamedA007&show_icons=true&hide_border=true" />
 
 
