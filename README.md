@@ -1,10 +1,8 @@
-### **PAGE UNDER CONSTRUCTION**
+### Hi there, I'm Mohamed 👋
 
-### Hi there, I'm Mohamed👋
+🔭  Mohamed is an Engineer at heart. A Cloud-Native, DevOps and GitOps Enthusiast who has a passion for learning new technologies and sharing his knowledge to the community.
 
-🔭  I'm a Platform Engineer who has a passion for learning new technologies and sharing my knowledge to the community.
-
-🌱  In the near future, I hope to create an open-source project and contibute to currently running open-source projects.
+🌱  Enjoys contributing to open-source projects and in the near-future, contribute to currently running open-source projects
 
 ### Languages and Tools:
 <p align="left">
@@ -29,6 +27,7 @@
 ### Connect with me 📫  🤝🏻 :
 
 <a href="https://www.linkedin.com/in/mohamed-abukar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mohamedabukar-blue?style=flat&logo=linkedin"></a>
+
 
 ### GitHub Stats
 
