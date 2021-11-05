@@ -6,10 +6,6 @@
 
 🌱  In the near future, I hope to create an open-source project and contibute to currently running open-source projects.
 
-### Connect with me 📫  🤝🏻 :
-
-<a href="https://www.linkedin.com/in/mohamed-abukar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mohamedabukar-blue?style=flat&logo=linkedin"></a>
-
 ### Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
@@ -29,6 +25,10 @@
 - [How to tackle the infamous CKA exam](https://moabukar.medium.com/how-to-tackle-the-infamous-cka-exam-e08c28e5cfa9?source=rss-b477510909ef------2)
 - [“Serverless containers” in Kubernetes with Fargate (Part 2) — Hands-on](https://towardsaws.com/serverless-containers-in-kubernetes-with-fargate-part-2-hands-on-4fb9e365e38d?source=rss-b477510909ef------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Connect with me 📫  🤝🏻 :
+
+<a href="https://www.linkedin.com/in/mohamed-abukar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mohamedabukar-blue?style=flat&logo=linkedin"></a>
 
 ### GitHub Stats
 
