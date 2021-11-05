@@ -6,9 +6,7 @@
 
 🌱  In the near future, I hope to create an open-source project and contibute to currently running open-source projects.
 
-### Connect with me:
-
-<h3> 📫  🤝🏻 Connect with me </h3>
+### Connect with me 📫  🤝🏻 :
 
 <a href="https://www.linkedin.com/in/mohamed-abukar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mohamedabukar-blue?style=flat&logo=linkedin"></a>
 
