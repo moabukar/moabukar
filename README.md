@@ -8,8 +8,9 @@
 
 ### Connect with me:
 
-📫  Reach out to me on LinkedIn : 
+<h3> 📫  🤝🏻 Connect with me </h3>
 
+<a href="https://www.linkedin.com/in/mohamed-abukar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mohamedabukar-blue?style=flat&logo=linkedin"></a>
 
 ### Languages and Tools:
 <p align="left">
@@ -31,8 +32,7 @@
 - [“Serverless containers” in Kubernetes with Fargate (Part 2) — Hands-on](https://towardsaws.com/serverless-containers-in-kubernetes-with-fargate-part-2-hands-on-4fb9e365e38d?source=rss-b477510909ef------2)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### GitHub Stats
 
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedA007&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
