@@ -2,7 +2,7 @@
 
 🔭  Mohamed is an Engineer at heart. A Cloud-Native, DevOps and GitOps Enthusiast who has a passion for learning new technologies and sharing his knowledge to the community.
 
-🌱  Enjoys contributing to open-source projects and in the near-future, contribute to currently running open-source projects
+🌱  Enjoys contributing to running open-source projects and in the near-future, aims to create an open-source project
 
 ### Languages and Tools:
 <p align="left">
