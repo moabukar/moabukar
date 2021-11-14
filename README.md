@@ -43,12 +43,13 @@
 
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=moabukar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabukar&theme=merko" alt="moabukar" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
 </p>
 
 
