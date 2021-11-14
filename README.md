@@ -46,6 +46,10 @@
   <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabukar&theme=merko" alt="moabukar" />
+</p>
+
 
 <!--
 **mohamedA007/mohamedA007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
