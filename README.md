@@ -27,6 +27,7 @@
 ### Connect with me 📫  🤝🏻 :
 
 <a href="https://www.linkedin.com/in/mohamed-abukar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mohamedabukar-blue?style=flat&logo=linkedin"></a>
+
 <a href="https://twitter.com/moabukar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
