@@ -11,7 +11,7 @@
 
 ## Contributors
 
-Although, this is on my personal account, I do not gain any personal benefit from it. If you wish to contribute on any of the projects, feel free to add your changes and make pull requests. It's really nice seeing the community support each other!! 
+Although, this is on my personal account, I do not gain any personal benefit from sharing these resources other than the satisfaction of helping people. If you wish to contribute on any of the projects, feel free to add your changes and make pull requests. It's really nice seeing the community support each other!! 
 
 Additionally, if you wish to suggest any new projects, I'm more than happy to help and share the content as long as its useful and beneficial to the community. 
 
