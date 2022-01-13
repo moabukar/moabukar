@@ -6,7 +6,7 @@
 
 ## My Goal:
 
-- My aim is to provide, create and share FREE learning resources & materials to the community for those looking to change careers, entry-level joiners, graduates, juniors. At the same time trying to share and create content that is clear, concise and easy-to-follow. 
+- My aim is to provide, create and share learning resources & materials to the community for those looking to change careers, entry-level joiners, graduates, juniors. At the same time trying to share and create content that is clear, concise and easy-to-follow. 
 - I've personally seen how hard it can be to navigate and find resources to learn from. Feel free to browse through my list of repos that contain useful resources. 
 
 ## Contributors
