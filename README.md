@@ -4,16 +4,7 @@
 
 🌱  Enjoys contributing to running open-source projects and in the near-future, aims to create an open-source project
 
-## My Goal:
-
-- My aim is to provide, create and share learning resources & materials to the community for those looking to change careers, entry-level joiners, graduates, juniors. At the same time trying to share and create content that is clear, concise and easy-to-follow. 
-- I've personally seen how hard it can be to navigate and find resources to learn from. Feel free to browse through my list of repos that contain useful resources. 
-
-## Contributors
-
-Although, this is on my personal account, I do not gain any personal benefit from sharing these resources other than the satisfaction of helping people. If you wish to contribute on any of the projects, feel free to add your changes and make pull requests. It's really nice seeing the community support each other!! 
-
-Additionally, if you wish to suggest any new projects, I'm more than happy to help and share the content as long as its useful and beneficial to the community. 
+- Just sharing my learning journey and beneficial resources along the way for the community to benefit from.,
 
 ### Main Languages and Tools:
 <p align="left">
