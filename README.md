@@ -4,7 +4,7 @@
 
 🌱  Enjoys contributing to running open-source projects and in the near-future, aims to create an open-source project
 
-- Just sharing my learning journey and beneficial resources along the way for the community to benefit from.,
+- Just sharing my learning journey and beneficial resources along the way for the community to benefit from.
 
 ### Main Languages and Tools:
 <p align="left">
@@ -26,7 +26,7 @@
 - [“Serverless containers” in Kubernetes with Fargate &lpar;Part 2&rpar; — Hands-on](https://towardsaws.com/serverless-containers-in-kubernetes-with-fargate-part-2-hands-on-4fb9e365e38d?source=rss-b477510909ef------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with me 📫  🤝🏻 :
+### Socials 📫  🤝🏻 :
 
 <a href="https://www.linkedin.com/in/mohamed-abukar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mohamedabukar-blue?style=flat&logo=linkedin"></a>
 
