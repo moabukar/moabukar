@@ -25,9 +25,7 @@
 - [“Serverless containers” in Kubernetes with Fargate &lpar;Part 2&rpar; — Hands-on](https://towardsaws.com/serverless-containers-in-kubernetes-with-fargate-part-2-hands-on-4fb9e365e38d?source=rss-b477510909ef------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Socials 🤝🏻 :
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🤝🏻 :</h3>
 <p align="left">
 <a href="https://twitter.com/moabukar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moabukar_1" height="30" width="40" /></a>
 <a href="https://medium.com/@moabukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moabukar" height="30" width="40" /></a>
