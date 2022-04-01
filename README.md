@@ -45,6 +45,7 @@
   <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="moabukar" /></p>
 
 <!--
 **mohamedA007/mohamedA007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
