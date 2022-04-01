@@ -39,13 +39,14 @@
 
 ### GitHub Stats
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=moabukar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="moabukar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&locale=en" alt="moabukar" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="moabukar" /></p>
 
 <!--
 **mohamedA007/mohamedA007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
