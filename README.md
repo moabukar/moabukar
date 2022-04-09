@@ -13,17 +13,25 @@
 - [The Pathway to DevOps](https://moabukar.medium.com/my-pathway-to-devops-22f9f0cc950?source=rss-b477510909ef------2)
 - [How to tackle the infamous CKA exam](https://moabukar.medium.com/how-to-tackle-the-infamous-cka-exam-e08c28e5cfa9?source=rss-b477510909ef------2)
 - [“Serverless containers” in Kubernetes with Fargate &lpar;Part 2&rpar; — Hands-on](https://towardsaws.com/serverless-containers-in-kubernetes-with-fargate-part-2-hands-on-4fb9e365e38d?source=rss-b477510909ef------2)
+<!-- BLOG-POST-LIST:END -->
 
-### My Projects & useful repos I've created
+### Works
 
+#### Community Maintained
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 - [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
+- [Everythin Tech repo (IN PROGRESS)](https://github.com/moabukar/Everything-Tech)
+- [Grad-Entry Level Resources (IN PROGRESS)](https://github.com/moabukar/Grad-EntryLevel-Resources)
+- [Recommended DevOps certs](https://github.com/moabukar/Recommended-DevOps-certs)
+
+#### Personal, Projects & Useful repos
 - [macOS setup using Ansible](https://github.com/moabukar/ansible-mac-setup)
 - [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
-- [Everythin Tech repo](https://github.com/moabukar/Everything-Tech)
+- [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
+- [ArgoCD Project - Local setup](https://github.com/moabukar/argocd)
+- [My Dotfiles](https://github.com/moabukar/dotfiles)
+- [A CLI created in Golang](https://github.com/moabukar/CLI-Go)
 
-
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me 🤝🏻 :</h3>
 <p align="left">
