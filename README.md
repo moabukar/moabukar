@@ -14,7 +14,7 @@
 - [How to tackle the infamous CKA exam](https://moabukar.medium.com/how-to-tackle-the-infamous-cka-exam-e08c28e5cfa9?source=rss-b477510909ef------2)
 - [“Serverless containers” in Kubernetes with Fargate &lpar;Part 2&rpar; — Hands-on](https://towardsaws.com/serverless-containers-in-kubernetes-with-fargate-part-2-hands-on-4fb9e365e38d?source=rss-b477510909ef------2)
 
-### Useful repos
+### My Projects & useful repos I've created
 
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 - [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
