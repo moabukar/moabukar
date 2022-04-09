@@ -16,11 +16,11 @@
 
 ### Useful repos
 
-- [https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA](Kubernetes-and-Cloud-Native-Associate KCNA)
-- [https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist](CKS Exercises)
-- [https://github.com/moabukar/ansible-mac-setup](macOS setup using Ansible)
-- [https://github.com/moabukar/ansible2.0](A list of Ansible roles & playbooks I have created and/or used)
-- [https://github.com/moabukar/Everything-Tech](Everythin Tech repo)
+- [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
+- [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
+- [macOS setup using Ansible](https://github.com/moabukar/ansible-mac-setup)
+- [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
+- [Everythin Tech repo](https://github.com/moabukar/Everything-Tech)
 
 
 <!-- BLOG-POST-LIST:END -->
