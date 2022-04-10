@@ -20,7 +20,7 @@
 #### Community Maintained
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 - [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
-- [Everythin Tech repo (IN PROGRESS)](https://github.com/moabukar/Everything-Tech)
+- [Everything Tech repo (IN PROGRESS)](https://github.com/moabukar/Everything-Tech)
 - [Grad-Entry Level Resources (IN PROGRESS)](https://github.com/moabukar/Grad-EntryLevel-Resources)
 - [Recommended DevOps certs](https://github.com/moabukar/Recommended-DevOps-certs)
 
