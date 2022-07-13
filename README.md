@@ -8,11 +8,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Container Interview Questions &lpar;Part I&rpar;](https://moabukar.medium.com/top-10-container-interview-questions-part-i-7877be053811?source=rss-b477510909ef------2)
+- [Top 10 Linux interview questions! &lpar;Part I&rpar;](https://moabukar.medium.com/top-10-linux-interview-questions-part-i-2288e32e3ff3?source=rss-b477510909ef------2)
 - [Where to begin with the CKS Exam?](https://moabukar.medium.com/where-to-begin-with-the-cks-exam-5cf0dcc86f76?source=rss-b477510909ef------2)
 - [How to get accepted into the AWS Community Builders Program](https://moabukar.medium.com/how-to-get-accepted-into-the-aws-community-builders-program-1ccaaebec058?source=rss-b477510909ef------2)
 - [The Pathway to DevOps](https://moabukar.medium.com/my-pathway-to-devops-22f9f0cc950?source=rss-b477510909ef------2)
-- [How to tackle the infamous CKA exam](https://moabukar.medium.com/how-to-tackle-the-infamous-cka-exam-e08c28e5cfa9?source=rss-b477510909ef------2)
-- [“Serverless containers” in Kubernetes with Fargate &lpar;Part 2&rpar; — Hands-on](https://towardsaws.com/serverless-containers-in-kubernetes-with-fargate-part-2-hands-on-4fb9e365e38d?source=rss-b477510909ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Works
