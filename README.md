@@ -1,7 +1,23 @@
 <div align="center">
 <h1 align="center">Hi there <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Mohamed</h1>
-<h4 align="center"> Mohamed is an Engineer at heart. A Cloud-Native, DevOps and GitOps Enthusiast who has a passion for learning new technologies and sharing his knowledge to the community. </h4>
+<h4 align="center"> Mohamed is an Engineer at heart. A Platform Engineer with a passion for software development, cloud-native technologies and distributed systems </h4>
 </div>
+
+<div>
+  <samp>
+    <h2 align="center">Connect with me 🤝🏻</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/mohamed-abukar/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/moabukar_1" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://moabukar.medium.com/" target="blank"><img align="center"
+          src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+          alt="azzar" height="30"/></a>
+</details>
 
 <!-- ### Hi there, I'm Mohamed 👋
 
@@ -38,12 +54,13 @@
 - [A CLI created in Golang](https://github.com/moabukar/CLI-Go)
 
 
-<h3 align="left">Connect with me 🤝🏻 :</h3>
+
+<!-- <h3 align="left">Connect with me 🤝🏻 :</h3>
 <p align="left">
 <a href="https://twitter.com/moabukar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moabukar_1" height="30" width="40" /></a>
 <a href="https://medium.com/@moabukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moabukar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-abukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abukar" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -73,18 +90,3 @@
   <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
 </p>
 
-
-<!--
-**mohamedA007/mohamedA007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
