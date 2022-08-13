@@ -36,16 +36,16 @@
 - [How to get accepted into the AWS Community Builders Program](https://moabukar.medium.com/how-to-get-accepted-into-the-aws-community-builders-program-1ccaaebec058?source=rss-b477510909ef------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Works
+### 🎯 Works
 
-#### Community Maintained
+#### 🫂 Community Maintained
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 - [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
 - [Everything Tech repo (IN PROGRESS)](https://github.com/moabukar/Everything-Tech)
 - [Grad-Entry Level Resources (IN PROGRESS)](https://github.com/moabukar/Grad-EntryLevel-Resources)
 - [Recommended DevOps certs](https://github.com/moabukar/Recommended-DevOps-certs)
 
-#### Personal, Projects & Useful repos
+#### 🛣️ Personal, Projects & Useful repos
 - [macOS setup using Ansible](https://github.com/moabukar/ansible-mac-setup)
 - [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
 - [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
