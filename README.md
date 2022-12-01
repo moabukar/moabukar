@@ -37,6 +37,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎯 Works
+  
+#### Open-Source Projects
+- [Chat Roulette for Slack - Alternative to Donut (Slack) Written in Golang](https://github.com/chat-roulettte/chat-roulette)
 
 #### 🫂 Community Maintained
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
