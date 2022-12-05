@@ -40,6 +40,7 @@
   
 #### Open-Source Projects
 - [Chat Roulette for Slack - Alternative to Donut (Slack) Written in Golang](https://github.com/chat-roulettte/chat-roulette)
+- [No Hello Bot for Discord - Written in Golang](https://github.com/moabukar/no-hello-bot)
 
 #### 🫂 Community Maintained
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
