@@ -56,6 +56,7 @@
 - [ArgoCD Project - Local setup](https://github.com/moabukar/argocd)
 - [My Dotfiles](https://github.com/moabukar/dotfiles)
 - [A CLI created in Golang](https://github.com/moabukar/CLI-Go)
+- [A URL shortener written in Golang](https://github.com/moabukar/url-shortener)
 
 
 
