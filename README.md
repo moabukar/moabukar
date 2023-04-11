@@ -43,6 +43,7 @@
 - [No Hello Bot for Discord - Written in Golang](https://github.com/moabukar/no-hello-bot)
 
 #### 🫂 Community Maintained
+- [Tech Vault](https://github.com/moabukar/tech-vault)
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 - [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
 - [Everything Tech repo (IN PROGRESS)](https://github.com/moabukar/Everything-Tech)
@@ -50,6 +51,7 @@
 - [Recommended DevOps certs](https://github.com/moabukar/Recommended-DevOps-certs)
 
 #### 🛣️ Personal, Projects & Useful repos
+- [A Terraform web app that uses all Terraform best practices (modules, Terratests and pipeline)](https://github.com/moabukar/tf-webapp)
 - [macOS setup using Ansible](https://github.com/moabukar/ansible-mac-setup)
 - [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
 - [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
