@@ -41,6 +41,8 @@
 #### Open-Source Projects
 - [Chat Roulette for Slack - Alternative to Donut (Slack) Written in Golang](https://github.com/chat-roulettte/chat-roulette)
 - [No Hello Bot for Discord - Written in Golang](https://github.com/moabukar/no-hello-bot)
+- [Container Image Analyser (CIA)](https://github.com/moabukar/cia)
+
 
 #### 🫂 Community Maintained
 - [Tech Vault](https://github.com/moabukar/tech-vault)
@@ -52,7 +54,7 @@
 
 #### 🛣️ Personal, Projects & Useful repos
 - [A Terraform web app that uses all Terraform best practices (modules, Terratests and pipeline)](https://github.com/moabukar/tf-webapp)
-- [macOS setup using Ansible](https://github.com/moabukar/ansible-mac-setup)
+- [macOS setup using Ansible](https://github.com/moabukar/ansible-mac)
 - [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
 - [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
 - [ArgoCD Project - Local setup](https://github.com/moabukar/argocd)
