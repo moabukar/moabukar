@@ -1,7 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Mohamed</h1>
-<h4 align="center"> Hello! </h4>
-</div>
+<h1 align="center">Hello! <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Mohamed</h1>
 
 ```yaml
 apiVersion: v10
