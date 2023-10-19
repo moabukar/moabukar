@@ -8,33 +8,36 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: header.svg
+          user: moabukar
 
 
 
-    # achievements:
-    # runs-on: ubuntu-latest
-    # steps:
-    #     - uses: lowlighter/metrics@latest
-    #     with:
-    #         filename: achievements.svg
-    #         token: ${{ secrets.METRICS_SECRET }}
-    #         committer_token: ${{ secrets.GITHUB_TOKEN }}
-    #         user: moabukar
-    #         base: achievements
-    #         plugin_achievements: yes
-    #         plugin_achievements_threshold: B
-    #         plugin_achievements_secrets: yes
-    #         plugin_achievements_display: compact
-    #         plugin_achievements_limit: 0
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: moabukar
+          base: achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
 
 
 #   lines:
