@@ -13,9 +13,10 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: lowlighter/metrics@latest
-      with:
-        token: ${{ secrets.METRICS_SECRET }}
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_SECRET }}
+
 
     # achievements:
     # runs-on: ubuntu-latest
