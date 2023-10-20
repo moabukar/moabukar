@@ -1,18 +1,7 @@
 <div align="center">
-<h1 align="center">Hello! <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Mohamed</h1>
-
-```yaml
-apiVersion: v10
-kind: Human
-metadata:
-  name: Mo Abukar
-spec:
-  purpose: Help others learn DevOps & Infrastructure
-  locations:
-    - 
-      type: Newsletter
-      where: blog.coderco.io
-```
+<h1 align="center">Hi there <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Mohamed</h1>
+<h4 align="center"> Mohamed is an Engineer at heart with a passion for software development, cloud-native technologies and distributed systems! </h4>
+</div>
 
 <div>
   <samp>
@@ -50,28 +39,28 @@ spec:
 ### 🎯 Works
   
 #### Open-Source Projects
-
-- [CLI tool for the Tech Vault repo](https://github.com/moabukar/tech-vault-cli)
 - [Chat Roulette for Slack - Alternative to Donut (Slack) Written in Golang](https://github.com/chat-roulettte/chat-roulette)
 - [No Hello Bot for Discord - Written in Golang](https://github.com/moabukar/no-hello-bot)
-- [Container Image Analyser (CIA)](https://github.com/moabukar/cia)
-
 
 #### 🫂 Community Maintained
-
 - [Tech Vault](https://github.com/moabukar/tech-vault)
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 - [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
+- [Everything Tech repo (IN PROGRESS)](https://github.com/moabukar/Everything-Tech)
+- [Grad-Entry Level Resources (IN PROGRESS)](https://github.com/moabukar/Grad-EntryLevel-Resources)
 - [Recommended DevOps certs](https://github.com/moabukar/Recommended-DevOps-certs)
 
 #### 🛣️ Personal, Projects & Useful repos
-
-- [My Dotfiles](https://github.com/moabukar/dotfiles)
 - [A Terraform web app that uses all Terraform best practices (modules, Terratests and pipeline)](https://github.com/moabukar/tf-webapp)
-- [macOS setup using Ansible](https://github.com/moabukar/ansible-mac)
+- [macOS setup using Ansible](https://github.com/moabukar/ansible-mac-setup)
 - [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
 - [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
 - [ArgoCD Project - Local setup](https://github.com/moabukar/argocd)
+- [My Dotfiles](https://github.com/moabukar/dotfiles)
+- [A CLI created in Golang](https://github.com/moabukar/CLI-Go)
+- [A URL shortener written in Golang](https://github.com/moabukar/url-shortener)
+
+
 
 <!-- <h3 align="left">Connect with me 🤝🏻 :</h3>
 <p align="left">
