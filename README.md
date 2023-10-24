@@ -33,9 +33,16 @@
 ### 🎯 Works
   
 #### Open-Source Projects
+
+- [(WIP) madq - A high performance, message-oriented, distributed queue](https://github.com/moabukar/madq)
+- [WIP - Terraform provider for Istio](https://github.com/moabukar/terraform-provider-istio)
+- [This is a simple tool to query CSV files from the command line. You may load CSV files and modify them using SQL queries.](https://github.com/moabukar/csvquery)
 - [A CLI tool for the infamous tech vault repo](https://github.com/moabukar/tech-vault-cli)
+- [WIP - Go interface to the ZeroMQ (5.0) library.](https://github.com/moabukar/zmq5)
+- [Container Image Analyser (CIA)](https://github.com/moabukar/cia)
 - [Chat Roulette for Slack - Alternative to Donut (Slack) Written in Golang](https://github.com/chat-roulettte/chat-roulette)
 - [No Hello Bot for Discord - Written in Golang](https://github.com/moabukar/no-hello-bot)
+- [My list of Rust projects](https://github.com/moabukar/rustv1)
 
 #### 🫂 Community Maintained
 
