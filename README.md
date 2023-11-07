@@ -44,6 +44,10 @@
 - [No Hello Bot for Discord - Written in Golang](https://github.com/moabukar/no-hello-bot)
 - [My list of Rust projects](https://github.com/moabukar/rustv1)
 
+- Terraform modules I have created
+  - [AWS Shield Advanced Terraform custom module](https://github.com/moabukar/terraform-aws-shield-advanced)
+  - [Terraform module which sets up Traefik on ECS](https://github.com/moabukar/terraform-aws-ecs-traefik) 
+
 #### 🫂 Community Maintained
 
 - [Tech Vault](https://github.com/moabukar/tech-vault)
