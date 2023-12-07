@@ -31,6 +31,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎯 Works
+
+#### 🫂 Community Maintained
+
+- [Tech Vault](https://github.com/moabukar/tech-vault)
+- [Learn UNIX & Networking](https://moabukar.github.io/unix-learn/)
+- [Kubernetes-and-Cloud-Native-Associate KCNA](https://moabukar.github.io/Kubernetes-and-Cloud-Native-Associate-KCNA/)
+- [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
   
 #### Open-Source Projects
 
@@ -48,11 +55,6 @@
   - [AWS Shield Advanced Terraform custom module](https://github.com/moabukar/terraform-aws-shield-advanced)
   - [Terraform module which sets up Traefik on ECS](https://github.com/moabukar/terraform-aws-ecs-traefik) 
 
-#### 🫂 Community Maintained
-
-- [Tech Vault](https://github.com/moabukar/tech-vault)
-- [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
-- [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
 
 #### 🛣️ Personal, Projects & Useful repos
 
