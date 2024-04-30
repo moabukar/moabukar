@@ -34,14 +34,14 @@
 
 #### 🫂 Community Maintained
 
-- [Tech Vault](https://github.com/moabukar/tech-vault)
+- [Tech Vault](https://github.com/moabukar/tech-vault)/[Tech Vault Web](https://tech-vault-web.vercel.app/)
 - [Learn UNIX & Networking](https://moabukar.github.io/unix-learn/)
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://moabukar.github.io/Kubernetes-and-Cloud-Native-Associate-KCNA/)
 - [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
   
 #### Open-Source Projects
 
-- [(WIP) madq - A high performance, message-oriented, distributed queue](https://github.com/moabukar/madq)
+
 - [WIP - Terraform provider for Istio](https://github.com/moabukar/terraform-provider-istio)
 - [This is a simple tool to query CSV files from the command line. You may load CSV files and modify them using SQL queries.](https://github.com/moabukar/csvquery)
 - [A CLI tool for the infamous tech vault repo](https://github.com/moabukar/tech-vault-cli)
@@ -49,7 +49,7 @@
 - [Container Image Analyser (CIA)](https://github.com/moabukar/cia)
 - [Chat Roulette for Slack - Alternative to Donut (Slack) Written in Golang](https://github.com/chat-roulettte/chat-roulette)
 - [No Hello Bot for Discord - Written in Golang](https://github.com/moabukar/no-hello-bot)
-- [My list of Rust projects](https://github.com/moabukar/rustv1)
+  - [(WIP) madq - A high performance, message-oriented, distributed queue](https://github.com/moabukar/madq)
 
 - Terraform modules I have created
   - [AWS Shield Advanced Terraform custom module](https://github.com/moabukar/terraform-aws-shield-advanced)
@@ -58,12 +58,14 @@
 
 #### 🛣️ Personal, Projects & Useful repos
 
+- [Personal site - WIP](https://mo-devops.vercel.app/)
 - [My Dotfiles](https://github.com/moabukar/dotfiles)
 - [macOS setup using Ansible](https://github.com/moabukar/ansible-mac)
 - [A Terraform web app that uses all Terraform best practices (modules, Terratests and pipeline)](https://github.com/moabukar/tf-webapp)
 - [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
 - [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
 - [ArgoCD Project - Local setup](https://github.com/moabukar/argocd)
+- [My list of Rust projects](https://github.com/moabukar/rustv1)
 
 
 <!-- <h3 align="left">Connect with me 🤝🏻 :</h3>
