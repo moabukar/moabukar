@@ -109,3 +109,10 @@
 
 ---
 
+### ☕ Support Me
+
+<p align="left">
+  <a href="https://buymeacoffee.com/moabukar" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
