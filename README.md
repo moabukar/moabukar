@@ -1,107 +1,111 @@
 <div align="center">
-<h1 align="center">Hello! <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
-
+  <h1 align="center">Hello! 👋</h1>
 </div>
 
-<div>
+<div align="center">
   <samp>
-    <h2 align="center">Reach out to me on these platforms</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/moabukar/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/moabukar_1" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://moabukar.medium.com/" target="blank"><img align="center"
-          src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-          alt="azzar" height="30"/></a>
-</details>
+    <p>Thoughts, views, and opinions expressed on this page are solely my own and not those of my employers 💭</p>
+    <p>An Engineer at heart with experience in software development, cloud technologies, and distributed systems 🤖🌩🚀</p>
+    <p>I'm an advocate for underrepresented individuals & communities in Engineering. I love building open-source tools and supporting open-source developers! 🫂</p>
+  </samp>
+</div>
 
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moabukar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://blog.coderco.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+  </a>
+</p>
+
+---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate Pathway to DevOps Revamped](https://moabukar.medium.com/the-ultimate-pathway-to-devops-revamped-5cbbbc2a772e?source=rss-b477510909ef------2)
-- [Thinking greener when it comes to programming languages](https://medium.com/trainline/thinking-greener-when-it-comes-to-programming-languages-60bbef195494?source=rss-b477510909ef------2)
-- [Top 10 Container Interview Questions &lpar;Part I&rpar;](https://moabukar.medium.com/top-10-container-interview-questions-part-i-7877be053811?source=rss-b477510909ef------2)
-- [Top 10 Linux interview questions! &lpar;Part I&rpar;](https://moabukar.medium.com/top-10-linux-interview-questions-part-i-2288e32e3ff3?source=rss-b477510909ef------2)
-- [Where to begin with the CKS Exam?](https://moabukar.medium.com/where-to-begin-with-the-cks-exam-5cf0dcc86f76?source=rss-b477510909ef------2)
+- [Thinking Greener When it Comes to Programming Languages](https://medium.com/trainline/thinking-greener-when-it-comes-to-programming-languages-60bbef195494?source=rss-b477510909ef------2)
+- [Top 10 Container Interview Questions (Part I)](https://moabukar.medium.com/top-10-container-interview-questions-part-i-7877be053811?source=rss-b477510909ef------2)
+- [Top 10 Linux Interview Questions (Part I)](https://moabukar.medium.com/top-10-linux-interview-questions-part-i-2288e32e3ff3?source=rss-b477510909ef------2)
+- [Where to Begin with the CKS Exam?](https://moabukar.medium.com/where-to-begin-with-the-cks-exam-5cf0dcc86f76?source=rss-b477510909ef------2)
 <!-- BLOG-POST-LIST:END -->
 
-### 🎯 Works
+---
 
-#### 🫂 Community Maintained
+### 🚀 Open Source Projects
 
-- [Tech Vault](https://github.com/moabukar/tech-vault)/[Tech Vault Web](https://tech-vault-web.vercel.app/)
-- [Learn UNIX & Networking](https://moabukar.github.io/unix-learn/)
-- [Kubernetes-and-Cloud-Native-Associate KCNA](https://moabukar.github.io/Kubernetes-and-Cloud-Native-Associate-KCNA/)
-- [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
-  
-#### Open-Source Projects
+- **[Tech Vault](https://github.com/moabukar/tech-vault)** / [Tech Vault Web](https://tech-vault-web.vercel.app/)
+- **[Learn UNIX & Networking](https://moabukar.github.io/unix-learn/)** - Comprehensive guide for Linux & networking fundamentals.
+- **[Kubernetes and Cloud Native Associate KCNA](https://moabukar.github.io/Kubernetes-and-Cloud-Native-Associate-KCNA/)** - KCNA prep resources.
+- **[CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)** - Certified Kubernetes Security Specialist exercises.
 
-
-- [WIP - Terraform provider for Istio](https://github.com/moabukar/terraform-provider-istio)
-- [This is a simple tool to query CSV files from the command line. You may load CSV files and modify them using SQL queries.](https://github.com/moabukar/csvquery)
-- [A CLI tool for the infamous tech vault repo](https://github.com/moabukar/tech-vault-cli)
-- [WIP - Go interface to the ZeroMQ (5.0) library.](https://github.com/moabukar/zmq5)
-- [Container Image Analyser (CIA)](https://github.com/moabukar/cia)
-- [Chat Roulette for Slack - Alternative to Donut (Slack) Written in Golang](https://github.com/chat-roulettte/chat-roulette)
-- [No Hello Bot for Discord - Written in Golang](https://github.com/moabukar/no-hello-bot)
-  - [(WIP) madq - A high performance, message-oriented, distributed queue](https://github.com/moabukar/madq)
-
-- Terraform modules I have created
-  - [AWS Shield Advanced Terraform custom module](https://github.com/moabukar/terraform-aws-shield-advanced)
-  - [Terraform module which sets up Traefik on ECS](https://github.com/moabukar/terraform-aws-ecs-traefik) 
+- **[WIP - Terraform Provider for Istio](https://github.com/moabukar/terraform-provider-istio)** (WIP) - Manage Istio resources via Terraform.
+- **[CSV Query CLI Tool](https://github.com/moabukar/csvquery)** - SQL-like querying for CSV files via command line.
+- **[Tech Vault CLI](https://github.com/moabukar/tech-vault-cli)** - CLI for Tech Vault repository.
+- **[WIP - ZMQ5 Go Interface](https://github.com/moabukar/zmq5)** - Interface to ZeroMQ 5.0 in Go (WIP).
 
 
-#### 🛣️ Personal, Projects & Useful repos
+### 🧪 Labs
 
-- [Personal site - WIP](https://mo-devops.vercel.app/)
-- [My Dotfiles](https://github.com/moabukar/dotfiles)
-- [macOS setup using Ansible](https://github.com/moabukar/ansible-mac)
-- [A Terraform web app that uses all Terraform best practices (modules, Terratests and pipeline)](https://github.com/moabukar/tf-webapp)
-- [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
-- [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
-- [ArgoCD Project - Local setup](https://github.com/moabukar/argocd)
-- [My list of Rust projects](https://github.com/moabukar/rustv1)
+- **[All my labs](https://github.com/moabukar/labs)** - Links of all my labs in one place.
 
+---
 
-<!-- <h3 align="left">Connect with me 🤝🏻 :</h3>
-<p align="left">
-<a href="https://twitter.com/moabukar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moabukar_1" height="30" width="40" /></a>
-<a href="https://medium.com/@moabukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moabukar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-abukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abukar" height="30" width="40" /></a>
-</p> -->
-
-
-<h3 align="left">Technlogies:</h3>
-<p align="center"> 
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-
-
-<!-- <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-</a href="https://www.terraform.io/" target="_blank" rel="noreferrer">  <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" alt="Terraform" width="40" height="40" > </a> -->
-
-
-### GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="moabukar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&locale=en" alt="moabukar" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moabukar" alt="moabukar" /></a> </p>
+### 🛠️ Technologies & Skills
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?&logo=Go&logoColor=white" alt="Golang"/>
+  <img src="https://img.shields.io/badge/-Rust-000000?&logo=Rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-CI/CD-FF6C37?&logo=Jenkins&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?&logo=Apache-Kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/-Apache%20Pulsar-188FFF?&logo=Apache-Pulsar&logoColor=white" alt="Apache Pulsar"/>
+  <img src="https://img.shields.io/badge/-ArgoCD-E10098?&logo=Argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?&logo=Terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/-Helm-0F1689?&logo=Helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/-NGINX-009639?&logo=NGINX&logoColor=white" alt="NGINX"/>
+  <img src="https://img.shields.io/badge/-Traefik-EE722E?&logo=Traefik&logoColor=white" alt="Traefik"/>
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&logo=Elastic-Stack&logoColor=white" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?&logo=Prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/-Spacelift-0085CA?&logo=Spacelift&logoColor=white" alt="Spacelift"/>
+  <img src="https://img.shields.io/badge/-TDD-FF6347?&logo=Test-Cafe&logoColor=white" alt="TDD"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/-ZeroMQ-DF1A1A?&logo=ZeroMQ&logoColor=white" alt="ZeroMQ"/>
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moabukar&color=brightgreen&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<!-- Optional additional section -->
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moabukar&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
+  </a>
+</p>
+
+---
+
