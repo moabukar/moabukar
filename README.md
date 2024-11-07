@@ -5,7 +5,7 @@
 <div align="center">
   <samp>
     <p>Thoughts, views, and opinions expressed on this page are solely my own and not those of my employers 💭</p>
-    <p>An Engineer at heart with experience in software development, cloud technologies, and distributed systems 🤖🌩🚀</p>
+    <p>A * Engineer at heart with experience in software development, cloud technologies, and distributed systems 🤖🌩🚀</p>
     <p>I'm an advocate for underrepresented individuals & communities in Engineering. I love building open-source tools and supporting open-source developers! 🫂</p>
   </samp>
 </div>
