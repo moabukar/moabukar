@@ -10,7 +10,7 @@ DevOps by title, but I'm happiest digging into kernel internals, container runti
 
 | Project | Description |
 |---------|-------------|
-| **[Tech Vault](https://github.com/moabukar/tech-vault)** | DevOps interview prep repository (1000+ ⭐) |
+| **[Tech Vault](https://github.com/moabukar/tech-vault)** | DevOps interview prep repository (3000+ ⭐) |
 | **[k8s-in-a-box](https://github.com/moabukar/k8s-in-a-box)** | Production-like Kubernetes environment in a box |
 | **[Learn UNIX & Networking](https://moabukar.github.io/unix-learn/)** | Linux and networking fundamentals guide |
 | **[KCNA Guide](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)** | Notes & resources for the KCNA exam |
