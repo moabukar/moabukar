@@ -2,7 +2,7 @@
 
 **Principal DevOps Engineer** · Building tools and communities for the DevOps ecosystem
 
-DevOps by title, but I'm happiest digging into kernel internals, container runtimes and networking at the packet level. I build with Go/Python, Terraform and Kubernetes daily - and open-source the tools I wish existed. Currently helping engineers break into the industry through educational content and community.
+DevOps by title, but I'm happiest digging into kernel internals, container runtimes and networking at the packet level. I build with Go/Python, Terraform and Kubernetes daily – and open-source the tools I wish existed. Currently helping engineers break into the industry through educational content and community.
 
 ---
 
@@ -16,32 +16,6 @@ DevOps by title, but I'm happiest digging into kernel internals, container runti
 | **[KCNA Guide](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)** | Notes & resources for the KCNA exam |
 | **[CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)** | Certified Kubernetes Security Specialist prep |
 | **[Labs](https://github.com/moabukar/labs)** | Hands-on DevOps labs and exercises |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moabukar&color=brightgreen&style=flat" alt="Profile views" />
-</p>
-
----
-
-<!-- Optional additional section -->
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moabukar&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
-  </a>
-</p>
-
 
 ---
 
@@ -64,4 +38,8 @@ DevOps by title, but I'm happiest digging into kernel internals, container runti
   <a href="https://buymeacoffee.com/moabukar">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moabukar&color=brightgreen&style=flat" alt="Profile views" />
 </p>
