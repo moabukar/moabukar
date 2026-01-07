@@ -22,16 +22,26 @@ DevOps by title, but I'm happiest digging into kernel internals, container runti
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moabukar&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🏆 Achievements
+<!-- Optional additional section -->
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moabukar&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moabukar&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
+  </a>
 </p>
+
 
 ---
 
