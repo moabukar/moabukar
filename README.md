@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Hey, I'm Mo 👋</h1>
-</p>
+<h1 align="center">Hey, I'm Mo 👋</h1>
 
 <p align="center">
   <strong>Principal/Staff DevOps Engineer</strong> · Building tools and communities for the DevOps ecosystem
