@@ -38,7 +38,6 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
   <img src="https://img.shields.io/badge/Spacelift-000000?style=for-the-badge&logo=spacelift&logoColor=white" alt="Spacelift" />
 </p>
 
--
 ---
 
 ### 🚀 Projects
@@ -53,7 +52,7 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
 | **[Labs](https://github.com/moabukar/labs)** | Hands-on DevOps labs and exercises |
 
 <details>
-<summary>View more projects</summary>
+<summary>📈 View more projects</summary>
 <br>
 Check out my [GitHub profile](https://github.com/moabukar?tab=repositories) for more open-source projects and contributions!
 </details>
