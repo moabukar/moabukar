@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 🚀 Projects
+<h3 align="center">🚀 Projects</h3>
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Check out my [GitHub profile](https://github.com/moabukar?tab=repositories) for 
 
 ---
 
-### 🔗 Connect
+<h3 align="center">🔗 Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moabukar/">
@@ -92,7 +92,7 @@ Check out my [GitHub profile](https://github.com/moabukar?tab=repositories) for 
 
 ---
 
-### ☕ Support Me
+<h3 align="center">☕ Support Me</h3>
 
 <p align="center">
   <a href="https://buymeacoffee.com/moabukar">
@@ -106,7 +106,7 @@ Check out my [GitHub profile](https://github.com/moabukar?tab=repositories) for 
 
 ---
 
-### GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
