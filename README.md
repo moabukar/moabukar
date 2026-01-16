@@ -46,7 +46,7 @@
 
 ### 🚀 Projects
 
-<p align="center">
+<div align="center">
 
 | Project | Description |
 |---------|-------------|
@@ -57,7 +57,7 @@
 | **[CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)** | Certified Kubernetes Security Specialist prep |
 | **[Labs](https://github.com/moabukar/labs)** | Hands-on DevOps labs and exercises |
 
-</p>
+</div>
 
 <details>
 <summary>📈 View more projects</summary>
