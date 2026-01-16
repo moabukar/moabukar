@@ -109,15 +109,15 @@ Check out my [GitHub profile](https://github.com/moabukar?tab=repositories) for 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabukar&layout=compact&langs_count=8&theme=github_dark&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabukar&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=moabukar&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabukar&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moabukar&theme=onedark&no-frame=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moabukar&theme=dark&column=7" alt="GitHub Trophies" />
 </p>
 
