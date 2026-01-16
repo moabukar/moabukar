@@ -104,20 +104,3 @@ Check out my [GitHub profile](https://github.com/moabukar?tab=repositories) for 
   <img src="https://komarev.com/ghpvc/?username=moabukar&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabukar&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabukar&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moabukar&theme=dark&column=7" alt="GitHub Trophies" />
-</p>
-
