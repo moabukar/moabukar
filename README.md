@@ -1,8 +1,14 @@
-# Hey, I'm Mo 👋
+<p align="center">
+  <h1>Hey, I'm Mo 👋</h1>
+</p>
 
-**Principal/Staff DevOps Engineer** · Building tools and communities for the DevOps ecosystem
+<p align="center">
+  <strong>Principal/Staff DevOps Engineer</strong> · Building tools and communities for the DevOps ecosystem
+</p>
 
-I am an advocate for underrepresented individuals & communities in Engineering. I love building open-source tools, working with and supporting open-source developers! 🫂
+<p align="center">
+  I am an advocate for underrepresented individuals & communities in Engineering. I love building open-source tools, working with and supporting open-source developers! 🫂
+</p>
 
 ---
 
