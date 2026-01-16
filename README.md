@@ -46,6 +46,8 @@
 
 ### 🚀 Projects
 
+<p align="center">
+
 | Project | Description |
 |---------|-------------|
 | **[Tech Vault](https://github.com/moabukar/tech-vault)** | DevOps interview prep repository (3000+ ⭐) |
@@ -54,6 +56,8 @@
 | **[KCNA Guide](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)** | Notes & resources for the KCNA exam |
 | **[CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)** | Certified Kubernetes Security Specialist prep |
 | **[Labs](https://github.com/moabukar/labs)** | Hands-on DevOps labs and exercises |
+
+</p>
 
 <details>
 <summary>📈 View more projects</summary>
