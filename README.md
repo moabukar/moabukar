@@ -6,23 +6,6 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabukar&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabukar&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moabukar&theme=onedark&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -107,3 +90,22 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moabukar&color=brightgreen&style=flat" alt="Profile views" />
 </p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabukar&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabukar&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moabukar&theme=onedark&column=7" alt="GitHub Trophies" />
+</p>
+
+---
