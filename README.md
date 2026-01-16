@@ -6,6 +6,23 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabukar&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabukar&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moabukar&theme=onedark&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -40,6 +57,16 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
 
 ---
 
+### 💼 Currently
+
+- 🔭 Working on open-source DevOps tools and educational content
+- 🌱 Contributing to Kubernetes and cloud-native projects
+- 👯 Looking to collaborate on infrastructure and observability tools
+- 💬 Ask me about Kubernetes, DevOps, or breaking into tech
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/moabukar/) or [Blog](https://blog.moabukar.co.uk/blog)
+
+---
+
 ### 🚀 Projects
 
 | Project | Description |
@@ -61,6 +88,9 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
   </a>
   <a href="https://blog.moabukar.co.uk/blog">
     <img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://github.com/moabukar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
