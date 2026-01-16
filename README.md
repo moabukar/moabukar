@@ -38,16 +38,7 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
   <img src="https://img.shields.io/badge/Spacelift-000000?style=for-the-badge&logo=spacelift&logoColor=white" alt="Spacelift" />
 </p>
 
----
-
-### 💼 Currently
-
-- 🔭 Working on open-source DevOps tools and educational content
-- 🌱 Contributing to Kubernetes and cloud-native projects
-- 👯 Looking to collaborate on infrastructure and observability tools
-- 💬 Ask me about Kubernetes, DevOps, or breaking into tech
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/moabukar/) or [Blog](https://blog.moabukar.co.uk/blog)
-
+-
 ---
 
 ### 🚀 Projects
@@ -60,6 +51,12 @@ I am an advocate for underrepresented individuals & communities in Engineering. 
 | **[KCNA Guide](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)** | Notes & resources for the KCNA exam |
 | **[CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)** | Certified Kubernetes Security Specialist prep |
 | **[Labs](https://github.com/moabukar/labs)** | Hands-on DevOps labs and exercises |
+
+<details>
+<summary>View more projects</summary>
+<br>
+Check out my [GitHub profile](https://github.com/moabukar?tab=repositories) for more open-source projects and contributions!
+</details>
 
 ---
 
